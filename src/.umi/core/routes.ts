@@ -15,7 +15,7 @@ const routes = [
         "exact": true,
         "meta": {
           "filePath": "src/FormTable/index.md",
-          "updatedTime": 1585556818670,
+          "updatedTime": 1585557492000,
           "title": "FormTable",
           "nav": {
             "title": "组件",
